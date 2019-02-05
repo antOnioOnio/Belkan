@@ -1,0 +1,9 @@
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/rebuild_cache.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/edit_cache.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/BelkanSG.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/GLUILib.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/Belkan.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/obj3DLib.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/motorLib.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/modelosBelkanLib.dir
+/media/sf_2do/IA/practica/Practica2 /CMakeFiles/comportamientosLib.dir

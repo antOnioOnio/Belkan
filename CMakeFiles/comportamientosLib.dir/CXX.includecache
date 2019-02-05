@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/aldeano.cpp
+../Comportamientos_Jugador/aldeano.hpp
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/aldeano.hpp
+motorlib/util.h
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/motorlib/util.h
+
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/aldeano.hpp
+chrono
+-
+time.h
+-
+thread
+-
+comportamientos/comportamiento.hpp
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/comportamientos/comportamiento.hpp
+
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/jugador.cpp
+../Comportamientos_Jugador/jugador.hpp
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/jugador.hpp
+motorlib/util.h
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/motorlib/util.h
+iostream
+-
+cmath
+-
+stack
+-
+vector
+-
+
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/jugador.hpp
+comportamientos/comportamiento.hpp
+/media/sf_2do/IA/practica/Practica2 /Comportamientos_Jugador/comportamientos/comportamiento.hpp
+list
+-
+
+/media/sf_2do/IA/practica/Practica2 /src/comportamientos/comportamiento.cpp
+comportamientos/comportamiento.hpp
+/media/sf_2do/IA/practica/Practica2 /src/comportamientos/comportamientos/comportamiento.hpp
+
+include/comportamientos/comportamiento.hpp
+vector
+-
+
+include/motorlib/util.h
+cstdlib
+-
+
